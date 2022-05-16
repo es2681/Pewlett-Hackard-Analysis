@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 ## Overview
 The purpose of this analysis was to conduct a review of employees approaching retirement (the "Silver Tsunami") as well as generate a list of employees who may be interested in serving as mentors for younger staff.
 
