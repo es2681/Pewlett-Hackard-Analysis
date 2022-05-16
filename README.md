@@ -1,6 +1,6 @@
 # Pewlett Hackard Analysis
 ## Overview
-The purpose of this analysis was to conduct a review of employees approaching retirement (the "Silver Tsunami") as well as generate a list of employees who may be interested in serving as mentors for younger staff.
+The purpose of this analysis was to conduct a review of employees approaching retirement (the "Silver Tsunami") as well as generate a list of employees who may be interested in serving as mentors for younger staff. An ERD (Entity Relationship Diagram) was used to visualize the relationships between the various data points and tables and SQL (PostgreSQL) was used to perform the analysis. 
 
 ## Results
 - There are 72,458 staff approaching retirement. Of this group, the title category with the highest number of upcoming retirees is Senior Engineer with 25,916 people. The title category with the least is Manager with only 2 employees approaching retirement. There are 24,926 Senior Staff, 9,285 Engineers, 7,636 Staff, 3,603 Technique Leaders, and 1,090 Assistant Engineers approaching retirement. 
